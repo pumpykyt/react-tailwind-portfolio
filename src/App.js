@@ -3,6 +3,7 @@ import logo from './assets/netflix.svg';
 import clipart from './assets/clipart.svg';
 
 const App = () => {
+  document.title = 'AR Portfolio'
   return (
     <div className="app">
       <header className="bg-green-400">
